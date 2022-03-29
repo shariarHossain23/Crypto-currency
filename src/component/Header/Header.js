@@ -3,7 +3,7 @@ import CustomLink from '../customlink/Customlink';
 
 const Header = () => {
     return (
-        <div className='flex justify-between items-center shadow-lg px-6 py-4'>
+        <div className='flex justify-between items-center shadow-xl px-6 py-6 sticky top-0'>
             <div>
                 <h2 className='text-gray-600'>Crypto Currency</h2>
             </div>
