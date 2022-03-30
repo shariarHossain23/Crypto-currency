@@ -3,7 +3,7 @@ import React from 'react';
 const UsAdress = () => {
     return (
         <div>
-            <div className='border p-8 bg-blue-700 text-white w-3/4 mx-auto flex justify-between items-center order-2 md:flex flex-col'> 
+            <div className='border p-8 bg-blue-700 text-white w-3/4 mx-auto flex justify-between items-center order-2 '> 
             <div className=''>
             <h1>Street: 17/4 New work.</h1>
             <h1>City: Dhaka</h1>
